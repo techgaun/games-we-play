@@ -10,6 +10,7 @@ List of online games that we play
 - [drawasaurus](https://www.drawasaurus.org/) - we think this is better than skribbl
 - [spy](https://spy.uncoverparty.com/)
 - [fishbowl](https://fishbowl-game.com/)
+- [CS 1.6 Online](https://play-cs.com/)
 
 ## Other Lists
 
