@@ -1,5 +1,10 @@
 # games-we-play
-List of online games that we play
+
+> Online Games that we play
+
+## Disclaimer
+
+We can not verify the correctness or authenticity of any links here, not at the time of authoring nor in the future. We just like to play these games at times and we'll put our best efforts to keep the list updated.
 
 ## Games List
 
