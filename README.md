@@ -23,6 +23,7 @@ We can not verify the correctness or authenticity of any links here, not at the 
 - [Draw Battle](https://drawbattle.io/)
 - [jklm.fun](https://jklm.fun/)
 - [World Guessr](https://www.worldguessr.com/)
+- [Net Games](https://netgames.io/games/)
 
 ## Other Lists
 
