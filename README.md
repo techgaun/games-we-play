@@ -18,6 +18,7 @@ We can not verify the correctness or authenticity of any links here, not at the 
 - [CS 1.6 Online](https://play-cs.com/)
 - [Virtual Vacations](https://virtualvacation.us/maps)
 - [ShellShock Shooter](https://shellshock.io/)
+- [Rank5](https://rank5.io/)
 
 ## Other Lists
 
