@@ -19,6 +19,9 @@ We can not verify the correctness or authenticity of any links here, not at the 
 - [Virtual Vacations](https://virtualvacation.us/maps)
 - [ShellShock Shooter](https://shellshock.io/)
 - [Rank5](https://rank5.io/)
+- [Telephone Game](https://garticphone.com/)
+- [Draw Battle](https://drawbattle.io/)
+- [jklm.fun](https://jklm.fun/)
 
 ## Other Lists
 
