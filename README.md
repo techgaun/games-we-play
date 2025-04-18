@@ -16,6 +16,7 @@ We can not verify the correctness or authenticity of any links here, not at the 
 - [spy](https://spy.uncoverparty.com/)
 - [fishbowl](https://fishbowl-game.com/)
 - [CS 1.6 Online](https://play-cs.com/)
+- [Virtual Vacations](https://virtualvacation.us/maps)
 
 ## Other Lists
 
