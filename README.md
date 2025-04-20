@@ -25,6 +25,7 @@ We can not verify the correctness or authenticity of any links here, not at the 
 - [World Guessr](https://www.worldguessr.com/)
 - [Net Games](https://netgames.io/games/)
 - [Azigy Trivia](https://azigy.com/) - Free up to 30 users
+- [HaxBall](https://www.haxball.com/play)
 
 ## Other Lists
 
